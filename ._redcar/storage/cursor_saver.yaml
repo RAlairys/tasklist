@@ -1,0 +1,78 @@
+--- 
+cursor_positions: 
+  - :path: config/environments/development.rb
+    :cursor_offset: 0
+    :timestamp: 2012-03-20 22:51:11.246000 -05:00
+  - :path: app/views/projects/new.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-03-20 23:23:35.491000 -05:00
+  - :path: config/environments/production.rb
+    :cursor_offset: 0
+    :timestamp: 2012-03-20 22:51:11.262000 -05:00
+  - :path: db/migrate/20120321045513_create_managers.rb
+    :cursor_offset: 0
+    :timestamp: 2012-03-20 23:55:13.689000 -05:00
+  - :path: app/views/projects/_form.html.erb
+    :cursor_offset: 327
+    :timestamp: 2012-03-21 22:00:30.212000 -05:00
+  - :path: db/migrate/20120322065035_create_defaultprojects.rb
+    :cursor_offset: 0
+    :timestamp: 2012-03-22 01:50:35.820000 -05:00
+  - :path: app/models/task.rb
+    :cursor_offset: 156
+    :timestamp: 2012-03-22 01:24:50.402000 -05:00
+  - :path: db/migrate/20120322030708_create_tasks.rb
+    :cursor_offset: 0
+    :timestamp: 2012-03-21 22:07:08.902000 -05:00
+  - :path: app/models/manager.rb
+    :cursor_offset: 117
+    :timestamp: 2012-03-22 01:58:39.187000 -05:00
+  - :path: app/models/project.rb
+    :cursor_offset: 117
+    :timestamp: 2012-03-22 01:58:56.004000 -05:00
+  - :path: app/helpers/tasks_helper.rb
+    :cursor_offset: 0
+    :timestamp: 2012-03-20 23:44:04.037000 -05:00
+  - :path: app/models/defaultproject.rb
+    :cursor_offset: 0
+    :timestamp: 2012-03-22 01:50:35.867000 -05:00
+  - :path: app/controllers/tasks_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2012-03-20 23:44:03.787000 -05:00
+  - :path: app/views/tasks/_form.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-03-20 23:44:03.912000 -05:00
+  - :path: app/views/tasks/index.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-03-20 23:44:03.896000 -05:00
+  - :path: app/views/tasks/show.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-03-20 23:44:03.912000 -05:00
+  - :path: config/routes.rb
+    :cursor_offset: 109
+    :timestamp: 2012-03-22 02:04:24.962000 -05:00
+  - :path: app/controllers/home_controller.rb
+    :cursor_offset: 625
+    :timestamp: 2012-03-26 15:54:05.986000 -05:00
+  - :path: config.ru
+    :cursor_offset: 0
+    :timestamp: 2012-03-20 22:51:11.059000 -05:00
+  - :path: db/seeds.rb
+    :cursor_offset: 0
+    :timestamp: 2012-03-20 22:51:13.087000 -05:00
+  - :path: db/schema.rb
+    :cursor_offset: 0
+    :timestamp: 2012-03-22 01:51:51.558000 -05:00
+  - :path: app/controllers/projects_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2012-03-20 23:23:35.320000 -05:00
+  - :path: app/views/projects/index.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-03-21 22:02:48.834000 -05:00
+  - :path: app/views/home/index.html.erb
+    :cursor_offset: 19
+    :timestamp: 2012-03-26 15:52:05.849000 -05:00
+  - :path: config/database.yml
+    :cursor_offset: 939
+    :timestamp: 2012-03-20 23:00:44.243000 -05:00
+files_to_retain: 0

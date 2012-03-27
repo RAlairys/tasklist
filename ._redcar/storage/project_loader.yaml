@@ -1,0 +1,7 @@
+--- 
+open_files: 
+  - app/views/home/index.html.erb
+  - app/controllers/home_controller.rb
+  - db/schema.rb
+  - app/controllers/projects_controller.rb
+  - app/views/projects/index.html.erb

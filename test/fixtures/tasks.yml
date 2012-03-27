@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  project: 
+  manager: 
+  position: 1.5
+  description: MyText
+  done_so_far: MyText
+  need_to_do: MyText
+  issues: MyText
+  additional_comments: MyText
+  started: 2012-03-21
+  next_followup: 2012-03-21
+  completed: 2012-03-21
+  done: false
+
+two:
+  project: 
+  manager: 
+  position: 1.5
+  description: MyText
+  done_so_far: MyText
+  need_to_do: MyText
+  issues: MyText
+  additional_comments: MyText
+  started: 2012-03-21
+  next_followup: 2012-03-21
+  completed: 2012-03-21
+  done: false

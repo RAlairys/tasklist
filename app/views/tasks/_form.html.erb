@@ -1,0 +1,65 @@
+<%= form_for(@task) do |f| %>
+  <% if @task.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@task.errors.count, "error") %> prohibited this task from being saved:</h2>
+
+      <ul>
+      <% @task.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :project %><br />
+    <%= f.text_field :project %>
+  </div>
+  <div class="field">
+    <%= f.label :manager %><br />
+    <%= f.text_field :manager %>
+  </div>
+  <div class="field">
+    <%= f.label :position %><br />
+    <%= f.text_field :position %>
+  </div>
+  <div class="field">
+    <%= f.label :description %><br />
+    <%= f.text_area :description %>
+  </div>
+  <div class="field">
+    <%= f.label :done_so_far %><br />
+    <%= f.text_area :done_so_far %>
+  </div>
+  <div class="field">
+    <%= f.label :need_to_do %><br />
+    <%= f.text_area :need_to_do %>
+  </div>
+  <div class="field">
+    <%= f.label :issues %><br />
+    <%= f.text_area :issues %>
+  </div>
+  <div class="field">
+    <%= f.label :additional_comments %><br />
+    <%= f.text_area :additional_comments %>
+  </div>
+  <div class="field">
+    <%= f.label :started %><br />
+    <%= f.date_select :started %>
+  </div>
+  <div class="field">
+    <%= f.label :next_followup %><br />
+    <%= f.date_select :next_followup %>
+  </div>
+  <div class="field">
+    <%= f.label :completed %><br />
+    <%= f.date_select :completed %>
+  </div>
+  <div class="field">
+    <%= f.label :done %><br />
+    <%= f.check_box :done %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

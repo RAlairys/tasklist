@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  priority: 1
+  description: MyText
+  website: MyString
+  logo: MyString
+  businessplan: MyString
+  manager: 
+
+two:
+  name: MyString
+  priority: 1
+  description: MyText
+  website: MyString
+  logo: MyString
+  businessplan: MyString
+  manager: 

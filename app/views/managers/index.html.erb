@@ -1,0 +1,31 @@
+<h1>Listing managers</h1>
+
+<table>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Email</th>
+    <th>Phone</th>
+    <th>Photo</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @managers.each do |manager| %>
+  <tr>
+    <td><%= manager.firstname %></td>
+    <td><%= manager.lastname %></td>
+    <td><%= manager.email %></td>
+    <td><%= manager.phone %></td>
+    <td><%= manager.photo %></td>
+    <td><%= link_to 'Show', manager %></td>
+    <td><%= link_to 'Edit', edit_manager_path(manager) %></td>
+    <td><%= link_to 'Destroy', manager, confirm: 'Are you sure?', method: :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Manager', new_manager_path %>
