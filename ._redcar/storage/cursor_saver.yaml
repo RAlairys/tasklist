@@ -51,9 +51,6 @@ cursor_positions:
   - :path: config/routes.rb
     :cursor_offset: 109
     :timestamp: 2012-03-22 02:04:24.962000 -05:00
-  - :path: app/controllers/home_controller.rb
-    :cursor_offset: 625
-    :timestamp: 2012-03-26 15:54:05.986000 -05:00
   - :path: config.ru
     :cursor_offset: 0
     :timestamp: 2012-03-20 22:51:11.059000 -05:00
@@ -75,4 +72,10 @@ cursor_positions:
   - :path: config/database.yml
     :cursor_offset: 939
     :timestamp: 2012-03-20 23:00:44.243000 -05:00
+  - :path: app/controllers/home_controller.rb
+    :cursor_offset: 625
+    :timestamp: 2012-03-26 15:54:05.986000 -05:00
+  - :path: .gitignore
+    :cursor_offset: 490
+    :timestamp: 2012-03-29 15:46:54.741000 -05:00
 files_to_retain: 0
