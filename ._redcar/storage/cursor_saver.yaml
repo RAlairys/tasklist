@@ -78,4 +78,13 @@ cursor_positions:
   - :path: .gitignore
     :cursor_offset: 490
     :timestamp: 2012-03-29 15:46:54.741000 -05:00
+  - :path: README.md
+    :cursor_offset: 111
+    :timestamp: 2012-03-29 16:31:52.143000 -05:00
+  - :path: Gemfile.lock
+    :cursor_offset: 1340
+    :timestamp: 2012-03-29 18:56:40.377000 -05:00
+  - :path: Gemfile
+    :cursor_offset: 217
+    :timestamp: 2012-03-29 18:59:20.900000 -05:00
 files_to_retain: 0
