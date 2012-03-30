@@ -18,7 +18,7 @@ development:
   database: tasklist_development
   pool: 5
   username: postgres
-  password:
+  password: 9o0174e0q5
 
   # Connect on a TCP socket. Omitted by default since the client uses a
   # domain socket that doesn't need configuration. Windows does not have
@@ -44,7 +44,7 @@ test:
   database: tasklist_test
   pool: 5
   username: postgres
-  password:
+  password: 9o0174e0q5
 
 production:
   adapter: postgresql
