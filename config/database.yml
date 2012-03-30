@@ -17,8 +17,8 @@ development:
   encoding: unicode
   database: tasklist_development
   pool: 5
-  username: su
-  password: 9o0174e0q5
+  username: postgres
+  password:
 
   # Connect on a TCP socket. Omitted by default since the client uses a
   # domain socket that doesn't need configuration. Windows does not have
@@ -43,13 +43,13 @@ test:
   encoding: unicode
   database: tasklist_test
   pool: 5
-  username: su
-  password: 9o0174e0q5
+  username: postgres
+  password:
 
 production:
   adapter: postgresql
   encoding: unicode
   database: tasklist_production
   pool: 5
-  username: tasklist
+  username: postgres
   password:
