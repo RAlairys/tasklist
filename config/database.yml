@@ -17,7 +17,7 @@ development:
   encoding: unicode
   database: tasklist_development
   pool: 5
-  username: tasklist
+  username: su
   password: 9o0174e0q5
 
   # Connect on a TCP socket. Omitted by default since the client uses a
@@ -43,7 +43,7 @@ test:
   encoding: unicode
   database: tasklist_test
   pool: 5
-  username: tasklist
+  username: su
   password: 9o0174e0q5
 
 production:

@@ -69,9 +69,6 @@ cursor_positions:
   - :path: app/views/home/index.html.erb
     :cursor_offset: 19
     :timestamp: 2012-03-26 15:52:05.849000 -05:00
-  - :path: app/controllers/home_controller.rb
-    :cursor_offset: 625
-    :timestamp: 2012-03-26 15:54:05.986000 -05:00
   - :path: .gitignore
     :cursor_offset: 490
     :timestamp: 2012-03-29 15:46:54.741000 -05:00
@@ -87,4 +84,7 @@ cursor_positions:
   - :path: config/database.yml
     :cursor_offset: 1376
     :timestamp: 2012-03-29 23:02:46.855000 -05:00
+  - :path: app/controllers/home_controller.rb
+    :cursor_offset: 625
+    :timestamp: 2012-03-26 15:54:05.986000 -05:00
 files_to_retain: 0
