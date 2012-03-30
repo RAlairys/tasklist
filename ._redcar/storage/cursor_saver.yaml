@@ -69,9 +69,6 @@ cursor_positions:
   - :path: app/views/home/index.html.erb
     :cursor_offset: 19
     :timestamp: 2012-03-26 15:52:05.849000 -05:00
-  - :path: config/database.yml
-    :cursor_offset: 939
-    :timestamp: 2012-03-20 23:00:44.243000 -05:00
   - :path: app/controllers/home_controller.rb
     :cursor_offset: 625
     :timestamp: 2012-03-26 15:54:05.986000 -05:00
@@ -81,10 +78,13 @@ cursor_positions:
   - :path: README.md
     :cursor_offset: 111
     :timestamp: 2012-03-29 16:31:52.143000 -05:00
-  - :path: Gemfile.lock
-    :cursor_offset: 1340
-    :timestamp: 2012-03-29 18:56:40.377000 -05:00
   - :path: Gemfile
     :cursor_offset: 217
     :timestamp: 2012-03-29 18:59:20.900000 -05:00
+  - :path: Gemfile.lock
+    :cursor_offset: 1329
+    :timestamp: 2012-03-29 19:00:36.029000 -05:00
+  - :path: config/database.yml
+    :cursor_offset: 1376
+    :timestamp: 2012-03-29 23:02:46.855000 -05:00
 files_to_retain: 0
